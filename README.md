@@ -45,10 +45,8 @@ Development mode:
 
 ---
 
-## 🌐 Multi‑Language Support  
-Documentation is available in:
-
-- 🇬🇧 English (Main Documentation)
+## 🌐 Documentation Languages
+- 🇬🇧 [English Documentation](README.en.md)
 
 Planned:
 - 🇮🇷 Persian (coming soon)
