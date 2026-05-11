@@ -44,48 +44,6 @@ It includes:
 
 ---
 
-## 🗂 Folder Structure
-
-/nora-civilis
-│
-├── docs/
-│   └── images/
-│       ├── nora_overview.png
-│       ├── nora_full_engine_map.png
-│       ├── nora_flow_diagram.png
-│       ├── nora_3d_futuristic.png
-│       └── nora_flat_architecture.png
-│
-├── src/
-│   ├── core/
-│   ├── identity/
-│   ├── knowledge/
-│   ├── reasoning/
-│   ├── strategy/
-│   ├── evolution/
-│   └── oversoul/
-│
-├── config/
-│
-├── package.json
-├── README.md
-└── .env.example
----
-
-## 🚀 Run the Civilization
-
-### Development mode
-(Development):
-
-```bash
-npm install
-npm run dev
-
-npm run build
-npm start
-
----
-
 ## 🌐 Documentation Languages
 
 - 🇬🇧 [English Documentation](README.en.md)
