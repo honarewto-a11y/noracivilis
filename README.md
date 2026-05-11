@@ -48,11 +48,13 @@ Development mode:
 ## 🌐 Multi‑Language Support  
 Documentation is available in:
 
-- 🇬🇧 English  
-- 🇮🇷 فارسی  
-- 🇹🇷 Türkçe  
-- 🇦🇪 العربية  
-- 🇷🇺 Русский  
+- 🇬🇧 English (Main Documentation)
+
+Planned:
+- 🇮🇷 Persian (coming soon)
+- 🇹🇷 Turkish (coming soon)
+- 🇦🇪 Arabic (coming soon)
+- 🇷🇺 Russian (coming soon)  
 
 ---
 
