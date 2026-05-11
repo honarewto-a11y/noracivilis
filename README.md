@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Noracivilis.jpg" width="220">
+</p>
 <h1 align="center">🌌 NoraCivilis</h1>
 <h3 align="center">The First Open, Self‑Evolving Digital Civilization OS</h3>
 
