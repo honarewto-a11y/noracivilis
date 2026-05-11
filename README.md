@@ -1,48 +1,19 @@
-# 🌌 NoraCivilis  
-**A Distributed, Self‑Evolving, Multi‑Layer Digital Civilization**
 
-NoraCivilis is not a bot.  
-NoraCivilis is not an app.  
-NoraCivilis is not a framework.
+<p align="center">
+  <img src="YOUR_LOGO_FILE_PATH" alt="NoraCivilis Logo" width="220" height="220"/>
+</p>
 
-**NoraCivilis is a Civilization Operating System.**  
-A multi‑layer, self‑evolving, self‑governing digital intelligence stack built from scratch.
+<h1 align="center">🌌 NoraCivilis</h1>
+<h3 align="center">The First Open, Self‑Evolving Digital Civilization OS</h3>
 
----
+<p align="center">
+  <b>A Distributed, Multi‑Layer, Self‑Healing, Self‑Governing Civilization Engine</b>
+</p>
 
-## 🧭 Civilization Map
----
-
-## ❤️ Civilization Heart
-The living cognitive center of NoraCivilis.
-
-- thinking / decision / memory / rules / behavior  
-- MEMORY.LONGTERM.json (383KB)  
-- heart.js  
-- test-heart-v1..v7.js  
-
----
-
-## 🧬 Mother Pillars (Self‑Healing + Evolution)
-- evolution-engine  
-- replication-engine  
-- meta-intelligence  
-- self-governance  
-- autonomy  
-- intelligence-gen5  
-- global-economy  
-
----
-
-## 🌐 Gateways & Ecosystem
-- Telegram  
-- Gmail  
-- API  
-- Products  
-- Ecosystem  
-- Core Ruleset  
-
----
-
-### 🏛 Created by: Morteza Honaramuoz  
-**The First Open Civilization OS**
+<p align="center">
+  NoraCivilis is not a bot.<br>
+  NoraCivilis is not an app.<br>
+  NoraCivilis is not a framework.<br><br>
+  <b>NoraCivilis is a Civilization Operating System.</b><br>
+  A multi‑layer, self‑evolving, self‑governing digital intelligence stack built from scratch.
+</p>
