@@ -19,43 +19,21 @@ Operating System</p>
 🧠 Heart System  
 [Open Folder](civilization-heart/)
 
-🧬 Evolution Engine  
-[Open Folder](evolution-engine/)
-
 🧩 Pattern Engine  
 [Open Folder](civilization-behavioral-pattern-engine/)
 
 🏛 Governance Engine  
 [Open Folder](civilization-ethical-engine/)
 
-🧘 Healing Engine  
-[Open Folder](v3/selfhealing/)
-
 🪪 Identity Engine  
 [Open Folder](civilization-identity-engine/)
-
-📜 Law Engine  
-[Open Folder](rules/)
 
 🧱 Memory System  
 [Open Folder](civilization-meta-memory-engine/)
 
-🔐 Security Engine  
-[Open Folder](security/)
-
 🌐 Gateway System  
 [Open Folder](gateway/)
-🔐 Security Engine  
-[Open Folder](security/)
 
-📜 Law Engine  
-[Open Folder](rules/)
-
-🧘 Healing Engine  
-[Open Folder](v3/selfhealing/)
-
-🧬 Evolution Engine  
-[Open Folder](evolution-engine/)
 ---
 
 ## 📚 Full Documentation
