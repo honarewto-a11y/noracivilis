@@ -20,16 +20,35 @@ NoraCivilis is not a bot.
 NoraCivilis is a **Civilization Operating System** — a modular, multi‑engine, multi‑layer digital intelligence stack designed to simulate, evolve, and govern a living digital civilization.
 It includes:
 
-- 🧠 Heart System  
-- 🧬 Evolution Engine  
-- 🧩 Pattern Engine  
-- 🏛 Governance Engine  
-- 🧘 Healing Engine  
-- 🪪 Identity Engine  
-- 📜 Law Engine  
-- 🧱 Memory System  
-- 🔐 Security Engine  
-- 🌐 Gateway System (Telegram, Gmail, API)
+### 🧠 Heart System  
+[Open Folder](core/heart)
+
+### 🧬 Evolution Engine  
+[Open Folder](engines/evolution)
+
+### 🧩 Pattern Engine  
+[Open Folder](engines/pattern)
+
+### 🏛 Governance Engine  
+[Open Folder](engines/governance)
+
+### 🧘 Healing Engine  
+[Open Folder](engines/healing)
+
+### 🪪 Identity Engine  
+[Open Folder](engines/identity)
+
+### 📜 Law Engine  
+[Open Folder](engines/law)
+
+### 🧱 Memory System  
+[Open Folder](engines/memory)
+
+### 🔐 Security Engine  
+[Open Folder](engines/security)
+
+### 🌐 Gateway System  
+[Open Folder](gateways)
 
 ---
 
