@@ -16,63 +16,35 @@ Operating System</p>
 
 ## 🌍 What is NoraCivilis?
 
-NoraCivilis is not a bot.  
-NoraCivilis is a **Civilization Operating System** — a modular, multi‑engine, multi‑layer digital intelligence stack designed to simulate, evolve, and govern a living digital civilization.
-It includes:
+🧠 Heart System  
+[Open Folder](civilization-heart/)
 
-🧠 Heart System
-Open Folder (github.com in Bing)
+🧬 Evolution Engine  
+[Open Folder](evolution-engine/)
 
----
+🧩 Pattern Engine  
+[Open Folder](civilization-behavioral-pattern-engine/)
 
-🧬 Evolution Engine
-(Mother Pillars – evolution-engine)  
-Open Folder (github.com in Bing)
+🏛 Governance Engine  
+[Open Folder](civilization-ethical-engine/)
 
----
+🧘 Healing Engine  
+[Open Folder](v3/selfhealing/)
 
-🧩 Pattern Engine
-Open Folder (github.com in Bing)
+🪪 Identity Engine  
+[Open Folder](civilization-identity-engine/)
 
----
+📜 Law Engine  
+[Open Folder](rules/)
 
-🏛 Governance Engine
-(قوانین اخلاقی و حکمرانی)  
-Open Folder (github.com in Bing)
+🧱 Memory System  
+[Open Folder](civilization-meta-memory-engine/)
 
----
+🔐 Security Engine  
+[Open Folder](security/)
 
-🧘 Healing Engine
-(v3 self‑healing system)  
-Open Folder (github.com in Bing)
-
----
-
-🪪 Identity Engine
-Open Folder (github.com in Bing)
-
----
-
-📜 Law Engine
-(rules folder)  
-Open Folder (github.com in Bing)
-
----
-
-🧱 Memory System
-(meta‑memory engine)  
-Open Folder (github.com in Bing)
-
----
-
-🔐 Security Engine
-Open Folder (github.com in Bing)
-
----
-
-🌐 Gateway System
-(API, Telegram, Gmail gateways)  
-Open Folder (github.com in Bing)
+🌐 Gateway System  
+[Open Folder](gateway/)
 
 ---
 
